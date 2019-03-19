@@ -20,3 +20,7 @@ Write a Python script that uses linear regression to predict the price of a stoc
 
 **Here's the ouput for testing data**
 ![Prediction of testing plot](https://i.imgur.com/f9OM6Yk.jpg)
+
+## Resources Used:
+* https://programmingforfinance.com/2018/01/predicting-stock-prices-with-linear-regression/
+* https://enlight.nyc/projects/stock-market-prediction/
