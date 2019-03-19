@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Datalit_Midterm
 **Amazon Stock price predicction using linear regression**
 
@@ -25,6 +24,3 @@ Write a Python script that uses linear regression to predict the price of a stoc
 ## Resources Used:
 * https://programmingforfinance.com/2018/01/predicting-stock-prices-with-linear-regression/
 * https://enlight.nyc/projects/stock-market-prediction/
-=======
-
->>>>>>> 766e438351e7914a071b60be63bf89918b60243a
